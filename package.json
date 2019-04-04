@@ -1,0 +1,20 @@
+{
+  "name": "React-Webpack_Starter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xarfo/React-Webpack_Starter.git"
+  },
+  "author": " <abdulfatah.a.ahmad@gmx.com>",
+  "license": "MIT",
+  "description": "Create React Without Create-React-App CLI",
+  "bugs": {
+    "url": "https://github.com/Xarfo/React-Webpack_Starter/issues"
+  },
+  "homepage": "https://github.com/Xarfo/React-Webpack_Starter#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": []
+}
